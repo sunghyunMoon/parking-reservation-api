@@ -104,7 +104,7 @@
   "parkingReservations": [
     {
       "id": "user",
-      "parkingSpotId": "7",
+      "parkingSpotId": null,
       "status": "비점유"
     }
   ]
